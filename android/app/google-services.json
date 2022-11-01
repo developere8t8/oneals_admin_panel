@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "968877833387",
+    "project_id": "testoneal",
+    "storage_bucket": "testoneal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968877833387:android:60757e0fdb9de0b3a20bee",
+        "android_client_info": {
+          "package_name": "com.example.oneal_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968877833387-ha4gie7ec76k8mhul8udkur38gilpv58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbdL-GeJROo8fhxK0JhZ-toNjfhhXJwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968877833387-ha4gie7ec76k8mhul8udkur38gilpv58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968877833387:android:9d469c84e34f2cd1a20bee",
+        "android_client_info": {
+          "package_name": "com.example.oneal_schools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968877833387-dq2b5cbuf4ogo82ilcq3uj2chp8udne1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oneal_schools",
+            "certificate_hash": "a4d8a9f48728c7fd6b790531c482ff223129b8f0"
+          }
+        },
+        {
+          "client_id": "968877833387-ha4gie7ec76k8mhul8udkur38gilpv58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbdL-GeJROo8fhxK0JhZ-toNjfhhXJwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968877833387-ha4gie7ec76k8mhul8udkur38gilpv58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
